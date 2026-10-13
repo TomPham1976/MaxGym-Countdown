@@ -1,5 +1,5 @@
 const PREFIX = 'maxgym2-';
-const CACHE = PREFIX + 'v17';
+const CACHE = PREFIX + 'v18';
 const FILES = ['./', 'index.html', 'manifest.json', 'icons/icon-192.png', 'icons/icon-512.png',
   'icons/icon-maskable-192.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png'];
 
